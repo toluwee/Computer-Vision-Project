@@ -56,9 +56,9 @@ Model Performance: <br/>
 >> Train Accuracy :- 97% <br/>
 >> Test Accuracy:- 95% <br/>
 
-![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/Gender%201.png)
-![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/Gender%202.png)
-![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/Gender%20Predictions.png)
+![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/Gender%201.png) <br/>
+![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/Gender%202.png) <br/>
+![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/Gender%20Predictions.png) <br/>
 
 ## Age Model:  <br/>
 ### Steps: <br/>

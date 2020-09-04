@@ -131,4 +131,6 @@ Check for other alternative Face recognition models like Facenet and Googlenet<
 #### https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/
 
 
-#### Team members: This was a team effort including Abhishek Yadav and Manaswi Mishra
+## Team members:<br/> 
+
+This was a group effort involving Abhishek Yadav and Manaswi Mishra

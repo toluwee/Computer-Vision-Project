@@ -123,10 +123,12 @@ Improve existing model performance by fine tuning the pretrained model layers.<b
 Try other Data Augmentation techniques to increase data size and to handle data imbalance<br/>
 Check for other alternative Face recognition models like Facenet and Googlenet<br/>
 
-#### Team members: This was a team effort including Abhishek Yadav and Manaswi Mishra
 
 #### https://susanqq.github.io/UTKFace/
 #### https://modelzoo.co/
 #### https://pypi.org/project/deepface/
 #### http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/
 #### https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/
+
+
+#### Team members: This was a team effort including Abhishek Yadav and Manaswi Mishra

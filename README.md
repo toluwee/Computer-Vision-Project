@@ -130,6 +130,8 @@ Check for other alternative Face recognition models like Facenet and Googlenet<
 #### http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/
 #### https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/
 
+# User App using DeepFace Model:<br/>
+This app takes as an input and detects the Gender, Age and Race of the person in the image.
 
 ## Team members:<br/> 
 

@@ -31,7 +31,7 @@ Insights on the Response variables:
 > Images are alligned and only contains cropped faces<br/>
 > Images show variation in pose, facial expression, illumination and resolution.<br/>
 
-# Connvolutional Model Implementation:<br/>
+# Convolutional Model Implementation:<br/>
 
 Given that we have to detect the Gender, Age and Race. We will have to build three different CNN models for each of the Response variables.<br/>
 

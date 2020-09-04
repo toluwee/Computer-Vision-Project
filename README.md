@@ -22,9 +22,13 @@ https://susanqq.github.io/UTKFace/ <br/>
 ![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/UTKFace%20Images.JPG)<br/>
 
 There is balance between Male and Female facial images<br/>
+![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/Gender.png)<br/>
 The Age is right skewed<br/>
+![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/Age.png)<br/>
 For Race, White is dominant in the data set<br/><br/>
+![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/Race.png)<br/>
 Images are alligned and only contains cropped faces<br/>
+
 Images show variation in pose, facial expression, illumination and resolution.<br/>
 
 

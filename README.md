@@ -117,12 +117,9 @@ Deepface is a lightweight facial analysis framework including face recognition 
 It has 4 extended models that is used to detect the demographic details of the given image, they are Gender, Race, Age (exact age) and Emotions.<br/>
 Emotions - Angry, Fear, Neutral, Sad, Disgust, Happy and Surprise<br/>
 
+# Future Work
 Improve existing model performance by fine tuning the pretrained model layers.<br/>
 Try other Data Augmentation techniques to increase data size and to handle data imbalance<br/>
 Check for other alternative Face recognition models like Facenet and Googlenet<br/>
 
-
-
-
-
-
+# Team members: This was a team effort including Abhishek Yadav and Manaswi Mishra

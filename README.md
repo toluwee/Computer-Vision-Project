@@ -133,6 +133,16 @@ Check for other alternative Face recognition models like Facenet and Googlenet<
 # User App using DeepFace Model:<br/>
 This app takes as an input and detects the Gender, Age and Race of the person in the image.
 
+Face App folder has the code named "appy.py". Run this code from the terminal
+Login Page:
+![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/First%20Page.JPG) <br/>
+
+Upload Image:
+![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/Upload%20Image.JPG) <br/>
+
+Detect the Gender/Age/Race:
+![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/Prediction%20output.JPG) <br/>
+
 ## Team members:<br/> 
 
 This was a group effort involving Abhishek Yadav and Manaswi Mishra

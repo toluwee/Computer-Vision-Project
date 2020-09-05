@@ -133,7 +133,7 @@ Check for other alternative Face recognition models like Facenet and Googlenet<
 # User App using DeepFace Model:<br/>
 This app takes as an input and detects the Gender, Age and Race of the person in the image.
 
-## Face App folder has the code named "appy.py". Run this code from the terminal
+## Face App Code cannot be uploaded here due to the huge size
 ### Login Page:
 ![alt text](https://github.com/sdmishra123/Computer-Vision-Project/blob/master/First%20Page.JPG) <br/>
 
